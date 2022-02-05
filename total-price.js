@@ -13,6 +13,9 @@ for (const product of products) {
 }
 // console.log(totalPrice);
 
+
+
+
 const cart = [
     { name: 'laptop', price: 43000, quantity: 1 },
     { name: 'shirt', price: 500, quantity: 8 },
